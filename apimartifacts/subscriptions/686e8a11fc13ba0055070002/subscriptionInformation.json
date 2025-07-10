@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/9337e0dc-d059-4af8-90d9-8f8eb736e72c/resourceGroups/API-Dev-Rg/providers/Microsoft.ApiManagement/service/dev-apim-learncicd/products/unlimited",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/9337e0dc-d059-4af8-90d9-8f8eb736e72c/resourceGroups/API-Dev-Rg/providers/Microsoft.ApiManagement/service/dev-apim-learncicd/users/1",
+    "state": "active"
+  }
+}
